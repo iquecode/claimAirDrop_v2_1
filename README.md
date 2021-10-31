@@ -1,6 +1,6 @@
-# ZEEXswapContractV2
+# ZEEXswapContractV2.1
 
-// Submitted for verification at BscScan.com on 2021-10-21
+// Submitted for verification at BscScan.com on 2021-10-31
 
 /*
 Public contract (Version 2.0) for secure swap between ZEEX (token 0xb9c21a1A716Ee781B0Ab282F3AEdDB3382d7aAdc) and:
@@ -21,4 +21,4 @@ https://artzeex.com/
 Name: Artzeex
 Symbol: ZEEX
 Decimals: 6
-*/# claimAirDrop_v2_1
+
